@@ -1,6 +1,6 @@
 {
   "name": "tau-switcher",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "A tool to define tabs and switch between them.",
   "main": "lib/index.js",
   "module": "src/index.js",
