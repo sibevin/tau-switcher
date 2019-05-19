@@ -113,7 +113,7 @@ describe('BooleanSwitcher', () => {
     test('should turn the switcher on', () => {
       const bs = new BooleanSwitcher()
       bs.setTab(false)
-      bs.switch()
+      bs.switchOn()
       expect(bs.getTab()).toBeTruthy()
     })
   })
@@ -121,7 +121,7 @@ describe('BooleanSwitcher', () => {
     test('should turn the switcher off', () => {
       const bs = new BooleanSwitcher()
       bs.setTab(true)
-      bs.switch()
+      bs.switchOff()
       expect(bs.getTab()).toBeFalsy()
     })
   })
