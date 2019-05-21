@@ -1,5 +1,9 @@
 # Tau Switcher
 
+[![npm version](https://badge.fury.io/js/tau-switcher.svg)](https://badge.fury.io/js/tau-switcher)
+[![Build Status](https://travis-ci.org/sibevin/tau-switcher.svg?branch=master)](https://travis-ci.org/sibevin/tau-switcher)
+[![Coverage Status](https://coveralls.io/repos/github/sibevin/tau-switcher/badge.svg?branch=master)](https://coveralls.io/github/sibevin/tau-switcher?branch=master)
+
 A tool to define tabs and switch between them.
 
 ## Usage
